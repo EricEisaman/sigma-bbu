@@ -20,7 +20,7 @@ The sources identify several key tools and learning programs essential for this 
 * Cheap **MCU boards** (like STM32 or ESP32) can be used for RTOS practice, though **QEMU** can simulate them for free.  
 * **Learning Programs:**  
 * **Research Science Institute (RSI):** A highly selective summer program for high schoolers where this type of original research can be presented.  
-* **Ringzer0 Training:** Provides professional-level training materials on baseband emulation and fuzzing 3, 22\.
+* **Ringzer0 Training:** Provides professional-level training materials on baseband emulation and fuzzing.
 
 ### Student Research Journey Outline
 
