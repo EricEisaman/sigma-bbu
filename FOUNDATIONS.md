@@ -52,17 +52,18 @@ The sources identify several key tools and learning programs essential for this 
 
 *The following items are not from the provided sources but are highly relevant to this research topic.*
 
-#### 3 Recent Articles
+#### Recent Articles
 
 1. **"Open Source Cellular: The State of the Ecosystem" (2024):** A deep dive into how projects like Osmocom and srsRAN are being used in private 5G networks.  
 2. **"Fuzzing the Phone: Why Baseband Security is the New Frontier" (2023):** A blog post explaining why modern security researchers are moving away from app-level bugs to cellular firmware.  
 3. **"The Role of Open-Source Tools in Satellite Communication Basebands" (2024):** Discusses the adaptation of GNU Radio for non-terrestrial networks.
 
-#### 3 Recent Papers
+#### Recent Papers
 
-1. **"FirmWire: Transparent Dynamic Analysis of Baseband Firmware" (NDSS 2022):** The seminal paper on the FirmWire platform mentioned in your sources, detailing how to emulate and fuzz proprietary basebands 7, 8\.  
-2. **"BASECOMP: Automated Baseband Firmware Security Analysis" (2023):** A paper exploring automated comparative analysis of different baseband implementations for security vulnerabilities.  
-3. **"Robustness Analysis of BLE Mesh Networks in Industrial Environments" (IEEE, 2024):** A study that provides real-world data on interference and clock drift, providing excellent context for "Option A" in the research outline 24\.
+1. **"FirmWire: Transparent Dynamic Analysis of Baseband Firmware" (NDSS 2022):** [The seminal paper on the FirmWire platform mentioned in your sources, detailing how to emulate and fuzz proprietary basebands 7, 8\.](https://www.ndss-symposium.org/wp-content/uploads/2022-136-paper.pdf)  
+2. **"BASESPEC: Comparative Analysis of Baseband
+Software and Cellular Specifications for L3 Protocols" (2021):** [A paper exploring automated comparative analysis of different baseband implementations for security vulnerabilities.](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-4_24365_paper.pdf)  
+3. **"So Timely, Yet So Stale: The Impact of Clock Drift in Real-Time Systems" (ERC, 2024):** [A study that provides real-world data on interference and clock drift, providing excellent context for "Option A" in the research outline 24\.](https://arxiv.org/html/2501.00549v1)
 
 #### YouTube Videos
 
