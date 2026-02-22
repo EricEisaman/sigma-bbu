@@ -64,9 +64,9 @@ The sources identify several key tools and learning programs essential for this 
 2. **"BASECOMP: Automated Baseband Firmware Security Analysis" (2023):** A paper exploring automated comparative analysis of different baseband implementations for security vulnerabilities.  
 3. **"Robustness Analysis of BLE Mesh Networks in Industrial Environments" (IEEE, 2024):** A study that provides real-world data on interference and clock drift, providing excellent context for "Option A" in the research outline 24\.
 
-#### 3 Recent YouTube Videos
+#### YouTube Videos
 
-1. **"Introduction to GNU Radio" (GNU Radio Conference 2023):** A beginner-friendly workshop on building SDR blocks.  
-2. **"Reverse Engineering 5G Basebands" (DEF CON 31, 2023):** A technical talk on the challenges of analyzing modern cellular firmware.  
-3. **"Simulating BLE Link Layers with Python and Verilog" (SDR-X Project Channel, 2024):** A walkthrough of the exact BTLE baseband chip project mentioned in the sources 11\.
+1. [GNU Radio](https://youtu.be/ynXNcBqBLSg?list=PL1bxtM6SP2l0Q4ebaYRYOkceVtKHrvKgb)
+2. [Baseband Introduction](https://youtu.be/U_awEXRp72k)  
+3. [BLE Introduction](https://youtu.be/JSQhRyTKnW4)
 
