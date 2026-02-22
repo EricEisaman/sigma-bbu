@@ -54,9 +54,7 @@ The sources identify several key tools and learning programs essential for this 
 
 #### Recent Articles
 
-1. **"Open Source Cellular: The State of the Ecosystem" (2024):** A deep dive into how projects like Osmocom and srsRAN are being used in private 5G networks.  
-2. **"Fuzzing the Phone: Why Baseband Security is the New Frontier" (2023):** A blog post explaining why modern security researchers are moving away from app-level bugs to cellular firmware.  
-3. **"The Role of Open-Source Tools in Satellite Communication Basebands" (2024):** Discusses the adaptation of GNU Radio for non-terrestrial networks.
+1. **"SRAN News":** [sran.com](https://www.srsran.com/news)  
 
 #### Recent Papers
 
