@@ -5,22 +5,22 @@ This research journey focuses on mastering open-source baseband firmware, specif
 The sources identify several key tools and learning programs essential for this field:
 
 * **Software & Emulation Platforms:**  
-* **GNU Radio:** The industry standard for software-defined radio (SDR) and digital signal processing (DSP) 
-* **OsmocomBB:** An open-source GSM baseband firmware that provides a full protocol stack (PHY to Layer 3\) 
-* **FirmWire:** A specialized emulation and fuzzing platform for smartphone baseband firmware used for security research   
-* **Open BTLE Baseband Chip:** Provides Python-based bit-true models and Verilog implementations of the BLE link layer and PHY  
+  * **GNU Radio:** The industry standard for software-defined radio (SDR) and digital signal processing (DSP) 
+  * **OsmocomBB:** An open-source GSM baseband firmware that provides a full protocol stack (PHY to Layer 3\) 
+  * **FirmWire:** A specialized emulation and fuzzing platform for smartphone baseband firmware used for security research   
+  * **Open BTLE Baseband Chip:** Provides Python-based bit-true models and Verilog implementations of the BLE link layer and PHY  
 * **Firmware & RTOS:**  
-* **FreeRTOS:** A widely used real-time operating system for learning kernel fundamentals like task scheduling, queues, and interrupt service routines (ISRs)
+  * **FreeRTOS:** A widely used real-time operating system for learning kernel fundamentals like task scheduling, queues, and interrupt service routines (ISRs)
 * **Development & Simulation Tools:**  
-* **iverilog and vvp:** Open-source tools for Verilog simulation and hardware verification.  
-* **Fuzzers:** AFL++, libFuzzer, and Honggfuzz for discovering memory safety bugs in baseband code.  
-* **OpenLane2 \+ SKY130 PDK:** An optional open-source ASIC flow for students interested in hardware design.  
+  * **iverilog and vvp:** Open-source tools for Verilog simulation and hardware verification.  
+  * **Fuzzers:** AFL++, libFuzzer, and Honggfuzz for discovering memory safety bugs in baseband code.  
+  * **OpenLane2 \+ SKY130 PDK:** An optional open-source ASIC flow for students interested in hardware design.  
 * **Hardware (Minimal Budget):**  
-* A **Linux (Ubuntu)** laptop or PC is the primary requirement.  
-* Cheap **MCU boards** (like STM32 or ESP32) can be used for RTOS practice, though **QEMU** can simulate them for free.  
+  * A **Linux (Ubuntu)** laptop or PC is the primary requirement.  
+  * Cheap **MCU boards** (like STM32 or ESP32) can be used for RTOS practice, though **QEMU** can simulate them for free.  
 * **Learning Programs:**  
-* **Research Science Institute (RSI):** A highly selective summer program for high schoolers where this type of original research can be presented.  
-* **Ringzer0 Training:** Provides professional-level training materials on baseband emulation and fuzzing.
+  * **Research Science Institute (RSI):** A highly selective summer program for high schoolers where this type of original research can be presented.  
+  * **Ringzer0 Training:** Provides professional-level training materials on baseband emulation and fuzzing.
 
 ### Student Research Journey Outline
 
