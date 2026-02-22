@@ -116,7 +116,7 @@ Research question (example):
 > What scheduling and priority assignment strategies yield the most stable timing for time-critical baseband tasks (e.g., symbol timing updates, frame decoding) on a constrained RTOS?
 Plan:
 1. Pick a small open-source RTOS (FreeRTOS) and create a realistic task graph:
-- Radio ISR, RX processing, TX scheduling, control-plane signaling, housekeeping. [reddit](https://www.reddit.com/r/embedded/comments/yrd5p8/im_an_ee_student_what_is_the_learning_path_the/)
+- Radio ISR, RX processing, TX scheduling, control-plane signaling, housekeeping. 
 2. Instrument tasks to record completion time and jitter (use GPIO toggling + logic analyzer if you have hardware; otherwise, high-resolution timers on a desktop).
 3. Compare different configurations:
 - Priority schemes, preemption settings, queue sizes.
